@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)](https://www.linkedin.com/in/hafedh-jendoubi/)
 <h1 align="center">Hi 👋, I'm Jendoubi Hafedh</h1>
 <h3 align="center">A passionate ESPRIT Student from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRsNHB1MHR5dXByNXM3a2thdmk1YWs3b2ZwaXg1NnFmc3o1czdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafedh-jendoubi&label=Profile%20views&color=0e75b6&style=flat" alt="hafedh-jendoubi" /> </p>
 
