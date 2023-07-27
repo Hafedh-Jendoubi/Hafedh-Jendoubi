@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **hafedh.jendoubi@esprit.tn**
 
-- ⚡ Fun fact **E-mail was first launched before the Internet.**
+- ⚡ Fun fact **E-mail was first launched before the Internet**
 
-- 📝 Check out **<a href="https://hafedh-jendoubi.github.io/JendoubiHafedh.github.io/">Portfolio</a>.**
+- 📝 Check out **<a href="https://hafedh-jendoubi.github.io/JendoubiHafedh.github.io/">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
