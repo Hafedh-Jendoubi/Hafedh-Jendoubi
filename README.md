@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **E-mail was first launched before the Internet**
 
-- 📝 Check out **<a href="https://hafedh-jendoubi.github.io/JendoubiHafedh.github.io/">Portfolio</a>**
+- 📝 Check out **<a href="https://hafedh-jendoubi.netlify.app/">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
