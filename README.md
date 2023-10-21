@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hafedhjendoubi3" target="blank"><img src="https://img.shields.io/twitter/follow/hafedhjendoubi3?logo=twitter&style=for-the-badge" alt="hafedhjendoubi3" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **hafedh.jendoubi@esprit.tn**
-
-- ⚡ Fun fact **E-mail was first launched before the Internet**
 
 - 📝 Check out **<a href="https://hafedh-jendoubi.netlify.app/">Portfolio</a>**
 
