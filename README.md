@@ -25,6 +25,6 @@
 <table>
   <tr>
     <td><p><img src="https://github-readme-stats.vercel.app/api?username=hafedh-jendoubi&show_icons=true&theme=radical&locale=en" alt="hafedh-jendoubi" /></p></td>
-    <td><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-jendoubi&theme=radical&" alt="hafedh-jendoubi" /></p></td>
+    <td><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-jendoubi&theme=radical" alt="hafedh-jendoubi" /></p></td>
   </tr>
 </table>
